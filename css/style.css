@@ -475,7 +475,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin: -45px 0 45px 0;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .about .col-lg-6 {
@@ -1574,6 +1574,7 @@ a:focus {
 .footer .copyright p {
     margin: 0;
     color: #ffffff;
+    font-size: 12px;
 }
 
 .footer .copyright .col-md-6:last-child p {
